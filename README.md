@@ -30,3 +30,6 @@ Through all this, I hope to develop skills that I can use in future roles throug
 
 # How I Plan to Use this Repository
 Throughout the semester, I plan to use this repository to organize my projects, notes, and resources. I also hope to use this repository to record my progress while learning backend development. This way, I can be proactive about my education, making sure to always be intentional about learning the skills and concepts I want to learn while taking the initiative to research independently whenever neccessary.
+
+## Project Version Control
+Naturally, this repository will also serve as a version control platform for each of this course's projects. This will allow me to work through each project while compiling a detailed commit history. This will facilitate creation of records documenting progress through each project's development. If an issue arises in development of any project, this should also help to identify origins of issues and to fix or roll back code. 
